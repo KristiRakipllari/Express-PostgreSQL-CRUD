@@ -19,6 +19,7 @@ Thumbs.db
 .vscode/
 
 # Editor specific files
+
 *.sublime-project
 *.sublime-workspace
 .idea/
